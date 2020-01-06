@@ -1,0 +1,30 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+
+    <div id="logo">
+        <h1>{{ Title }}</h1>
+    </div>
+
+    <hr>
+
+    <div class="container">
+        <div class="row">
+            <a href="{{ path('catering') }}" class="main">
+                button 1
+                <img>
+            </a>
+        </div>
+
+        <hr>
+
+        <div class="row">
+            <a href="{{ path('ostalo') }}" class="secondary-left">
+                button 1
+            </a>
+            <a href="{{ path('nadstrijesnice') }}" class="secondary-right">
+                button 1
+            </a>
+        </div>
+    </div>
+{% endblock %}

@@ -1,0 +1,4 @@
+[Sun Dec 29 18:51:50.235155 2019] [core:alert] [pid 2473] [client 127.0.0.1:35974] /home/matej/sizif/.htaccess: Invalid command 'RewriteCond', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Dec 29 18:51:52.772012 2019] [core:alert] [pid 1157] [client 127.0.0.1:35976] /home/matej/sizif/.htaccess: Invalid command 'RewriteCond', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Dec 29 18:52:39.484799 2019] [core:alert] [pid 1158] [client 127.0.0.1:35984] /home/matej/sizif/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Dec 29 18:52:43.112208 2019] [core:alert] [pid 1159] [client 127.0.0.1:35986] /home/matej/sizif/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
